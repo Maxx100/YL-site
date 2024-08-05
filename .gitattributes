@@ -1,6 +1,1 @@
-data/* linguist-documentation=false
-data/* linguist-vendored
-db/* linguist-documentation=false
-db/* linguist-vendored
-static/* linguist-documentation=false
-static/* linguist-vendored
+static/data/* linguist-vendored=false
